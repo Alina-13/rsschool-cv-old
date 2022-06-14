@@ -154,7 +154,7 @@ a {
 }
 
 .footer-github {
-  background-image: url(assets/svg/github.png);
+  background-image: url(svg/github.png);
   background-position: center left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -164,7 +164,7 @@ a {
 }
 
 .rsschool {
-  background-image: url(assets/svg/rsslogo.png);
+  background-image: url(svg/rsslogo.png);
   background-position: center left;
   background-repeat: no-repeat;
   background-size: cover;
